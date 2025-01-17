@@ -1,4 +1,4 @@
-# README - Index Tracking Portfolio Component: ACTL3182 Assignment
+# Index Tracking Portfolio Component: ACTL3182 Assignment
 
 ## Project Overview
 
