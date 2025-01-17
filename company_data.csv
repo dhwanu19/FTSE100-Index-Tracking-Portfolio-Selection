@@ -1,0 +1,101 @@
+ticker,name,sector,industry,market_cap
+HSBA.L,HSBC Holdings plc,Financial Services,Banks - Diversified,129307500544
+PSON.L,Pearson plc,Communication Services,Publishing,7975813120
+ANTO.L,Antofagasta plc,Basic Materials,Copper,17291931648
+PRU.L,Prudential plc,Financial Services,Insurance - Life,17584242688
+STAN.L,Standard Chartered PLC,Financial Services,Banks - Diversified,22781585408
+AAL.L,Anglo American plc,Basic Materials,Other Industrial Metals & Mining,29253521408
+GLEN.L,Glencore plc,Basic Materials,Other Industrial Metals & Mining,49503715328
+WPP.L,WPP plc,Communication Services,Advertising Agencies,9199799296
+RIO.L,Rio Tinto Group,Basic Materials,Other Industrial Metals & Mining,79397380096
+RKT.L,Reckitt Benckiser Group plc,Consumer Defensive,Household & Personal Products,33875068928
+RTO.L,Rentokil Initial plc,Industrials,Specialty Business Services,10249594880
+MNDI.L,Mondi plc,Basic Materials,Paper & Paper Products,5398183424
+FRES.L,Fresnillo plc,Basic Materials,Other Precious Metals & Mining,5228263424
+SGE.L,The Sage Group plc,Technology,Software - Application,10372221952
+VTY.L,Vistry Group PLC,Consumer Cyclical,Residential Construction,2418102784
+IHG.L,InterContinental Hotels Group PLC,Consumer Cyclical,Lodging,14447976448
+BATS.L,British American Tobacco p.l.c.,Consumer Defensive,Tobacco,60308377600
+AZN.L,AstraZeneca PLC,Healthcare,Drug Manufacturers - General,156953083904
+BLND.L,British Land Company PLC,Real Estate,REIT - Diversified,3870160896
+INF.L,Informa plc,Communication Services,Publishing,11009032192
+CNA.L,Centrica plc,Utilities,Utilities - Independent Power Producers,5956439040
+LAND.L,Land Securities Group Plc,Real Estate,REIT - Diversified,4398853120
+HL.L,Hargreaves Lansdown plc,Financial Services,Asset Management,5168289792
+BARC.L,Barclays PLC,Financial Services,Banks - Diversified,37049249792
+IMB.L,Imperial Brands PLC,Consumer Defensive,Tobacco,20130588672
+CPG.L,Compass Group PLC,Consumer Cyclical,Restaurants,44755927040
+GSK.L,GSK plc,Healthcare,Drug Manufacturers - General,56453718016
+AV.L,Aviva plc,Financial Services,Insurance - Diversified,12124113920
+ULVR.L,Unilever PLC,Consumer Defensive,Household & Personal Products,113523433472
+DGE.L,Diageo plc,Consumer Defensive,Beverages - Wineries & Distilleries,51886501888
+UTG.L,Unite Group PLC,Real Estate,REIT - Diversified,4199362304
+SHEL.L,Shell plc,Energy,Oil & Gas Integrated,159275859968
+CTEC.L,ConvaTec Group PLC,Healthcare,Medical Instruments & Supplies,4487109632
+AHT.L,Ashtead Group plc,Industrials,Rental & Leasing Services,27541772288
+SGRO.L,SEGRO Plc,Real Estate,REIT - Industrial,10492782592
+BA.L,BAE Systems plc,Industrials,Aerospace & Defense,41470808064
+HLMA.L,Halma plc,Industrials,Conglomerates,9784341504
+ENT.L,Entain Plc,Consumer Cyclical,Gambling,4750694400
+HSX.L,Hiscox Ltd,Financial Services,Insurance - Property & Casualty,3629869312
+RMV.L,Rightmove plc,Communication Services,Internet Content & Information,4713796608
+NXT.L,NEXT plc,Consumer Cyclical,Apparel Retail,11830177792
+SDR.L,Schroders plc,Financial Services,Asset Management,4972160512
+HLN.L,Haleon plc,Healthcare,Drug Manufacturers - Specialty & Generic,33098326016
+WEIR.L,The Weir Group PLC,Industrials,Specialty Industrial Machinery,5659541504
+CRDA.L,Croda International Plc,Basic Materials,Specialty Chemicals,5103426048
+EXPN.L,Experian plc,Industrials,Consulting Services,35511046144
+NG.L,National Grid plc,Utilities,Utilities - Regulated Electric,48029855744
+CCH.L,Coca-Cola HBC AG,Consumer Defensive,Beverages - Non-Alcoholic,10159014912
+SPX.L,Spirax Group plc,Industrials,Specialty Industrial Machinery,4863664128
+BME.L,B&M European Value Retail S.A.,Consumer Defensive,Discount Stores,3912734208
+LSEG.L,London Stock Exchange Group plc,Financial Services,Financial Data & Stock Exchanges,57557970944
+UU.L,United Utilities Group PLC,Utilities,Utilities - Regulated Water,7139367424
+ITRK.L,Intertek Group plc,Industrials,Specialty Business Services,7375844864
+SMDS.L,DS Smith Plc,Consumer Cyclical,Packaging & Containers,7897671168
+SVT.L,Severn Trent PLC,Utilities,Utilities - Regulated Water,7889204224
+KGF.L,Kingfisher plc,Consumer Cyclical,Home Improvement Retail,5301543424
+NWG.L,NatWest Group plc,Financial Services,Banks - Regional,32403103744
+FCIT.L,F&C Investment Trust Ord,N/A,N/A,5312845824
+PHNX.L,Phoenix Group Holdings plc,Financial Services,Insurance - Life,4917904896
+III.L,3i Group Ord,N/A,N/A,32692785152
+LMP.L,LondonMetric Property Plc,Real Estate,REIT - Industrial,3930031616
+SN.L,Smith & Nephew plc,Healthcare,Medical Devices,8140758016
+PSN.L,Persimmon Plc,Consumer Cyclical,Residential Construction,4263547136
+BNZL.L,Bunzl plc,Consumer Defensive,Food Distribution,11692741632
+REL.L,RELX PLC,Industrials,Specialty Business Services,69189271552
+ABF.L,Associated British Foods plc,Consumer Defensive,Packaged Foods,17090034688
+ADM.L,Admiral Group plc,Financial Services,Insurance - Property & Casualty,7496157696
+BKG.L,The Berkeley Group Holdings plc,Consumer Cyclical,Residential Construction,4364958208
+FRAS.L,Frasers Group Plc,Consumer Cyclical,Specialty Retail,3422401536
+WTB.L,Whitbread plc,Consumer Cyclical,Lodging,5423464960
+PSH.L,Pershing Square Holdings Ord,N/A,N/A,6673970176
+SMT.L,Scottish Mortgage Ord,N/A,N/A,11507076096
+BTRW.L,Barratt Redrow plc,Consumer Cyclical,Residential Construction,6243083776
+SSE.L,SSE plc,Utilities,Utilities - Diversified,18954061824
+SMIN.L,Smiths Group plc,Industrials,Specialty Industrial Machinery,5244743680
+LGEN.L,Legal & General Group Plc,Financial Services,Asset Management,12797977600
+TSCO.L,Tesco PLC,Consumer Defensive,Grocery Stores,23524106240
+AUTO.L,Auto Trader Group plc,Communication Services,Internet Content & Information,7521589248
+TW.L,Taylor Wimpey plc,Consumer Cyclical,Residential Construction,4908140544
+IMI.L,IMI plc,Industrials,Specialty Industrial Machinery,4435898880
+DCC.L,DCC plc,Energy,Oil & Gas Refining & Marketing,4821208576
+ICG.L,Intermediate Capital Group plc,Financial Services,Asset Management,6353216000
+MNG.L,M&G plc,Financial Services,Asset Management,4624075776
+BEZ.L,Beazley plc,Financial Services,Insurance - Specialty,4902090240
+EZJ.L,easyJet plc,Industrials,Airlines,4128472320
+SBRY.L,J Sainsbury plc,Consumer Defensive,Grocery Stores,6033770496
+LLOY.L,Lloyds Banking Group plc,Financial Services,Banks - Regional,33063976960
+BT-A.L,BT Group plc,Communication Services,Telecom Services,13990540288
+MKS.L,Marks and Spencer Group plc,Consumer Cyclical,Department Stores,7791259648
+DPLM.L,Diploma PLC,Industrials,Industrial Distribution,6020403200
+HIK.L,Hikma Pharmaceuticals PLC,Healthcare,Drug Manufacturers - Specialty & Generic,4060495104
+VOD.L,Vodafone Group Public Limited Company,Communication Services,Telecom Services,18774884352
+EDV.L,Endeavour Mining plc,Basic Materials,Gold,4055875584
+IAG.L,International Consolidated Airlines Group S.A.,Industrials,Airlines,11546235904
+HWDN.L,Howden Joinery Group Plc,Consumer Cyclical,"Furnishings, Fixtures & Appliances",4614656512
+RR.L,Rolls-Royce Holdings plc,Industrials,Aerospace & Defense,48429535232
+BP.L,BP p.l.c.,Energy,Oil & Gas Integrated,60598231040
+JD.L,JD Sports Fashion Plc,Consumer Cyclical,Apparel Retail,6432276480
+MRO.L,Melrose Industries PLC,Industrials,Specialty Industrial Machinery,6520261120
+AAF.L,Airtel Africa Plc,Communication Services,Telecom Services,3678627072
